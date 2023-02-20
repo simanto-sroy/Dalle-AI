@@ -8,7 +8,12 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+public
+src
+index.html
+package.json
+postcss.config.cjs
+tailwind.config.cjs
 dist-ssr
 *.local
 
